@@ -2,7 +2,7 @@
 My name is Luis Felipe Cordeiro Sena, I'm from Brazil  and I'm a student from UFBA learning web development. 
 
 - 📍  From BA living in Salvador
-- ✌🏿 Front-end and Css
+- ✌🏿 Front-end 
 - 👉🏾For more Codes and Projects: 
  #### Hackmd: [https://hackmd.io/@Q_DganXLSf6VTa_YeAXq1A](https://hackmd.io/@Q_DganXLSf6VTa_YeAXq1A) 
  #### Codepen: [https://codepen.io/luisfelipesena](https://codepen.io/luisfelipesena)
