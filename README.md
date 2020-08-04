@@ -1,5 +1,5 @@
 #  Hi there 👋
-My name is Luis Felipe Cordeiro Sena, I'm from Brazil  and I'm a student from UFBA learning web development. 
+My name is Luis Felipe Cordeiro Sena, I'm from Brazil  and I'm a student from UFBA learning web development and computer science. 
 
 - 📍  From BA living in Salvador
 - ✌🏿 Front-end 
