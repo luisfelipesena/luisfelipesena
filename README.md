@@ -1,9 +1,9 @@
-#  Hi there, I'm Luis 👋
-### I'm a student learning web development with [Cubos Academy](https://cubos.academy/) and computer science with [UFBA](https://ufba.br/). I love to learn and contribute in any and every possible way.
+#  Welcome, I'm Luis 👋
+### I'm in progress to be a Full Stack developer learning web development with [Cubos Academy](https://cubos.academy/), computer science with [UFBA](https://ufba.br/) and new technologies that the development job market are using. I love to learn and contribute in any and every possible way.
 
 ### 📍 From Salvador-BA, Brazil
 
-### Skills :
+### Now i'm studying and working with :
  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
  
  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
