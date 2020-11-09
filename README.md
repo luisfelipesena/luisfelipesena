@@ -1,5 +1,5 @@
 #  Welcome, I'm Luis 👋
-### I'm in progress to be a Full Stack developer learning web development with [Cubos Academy](https://cubos.academy/), computer science with [UFBA](https://ufba.br/) and new technologies that the development job market are using. I love to learn and contribute in any and every possible way.
+### I'm in progress to be a Full Stack developer learning web development with [Cubos Academy](https://cubos.academy/), computer science with [UFBA](https://ufba.br/) and new technologies that the job market are using. I love to learn and contribute in any and every possible way.
 
 ### 📍 From Salvador-BA, Brazil
 
