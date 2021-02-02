@@ -30,7 +30,18 @@
  #### CodeSandbox: [https://codesandbox.io/u/luisfelipesena](https://codesandbox.io/u/luisfelipesena)
  #### HackerRank: https://www.hackerrank.com/luisfelipesena?hr_r=1
   
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=luisfelipesena)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+	<table>
+		<tr>
+			<td>
+				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesena&layout=compact&theme=cobalt"/>
+			</td>
+			<td>
+				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=luisfelipesena&show_icons=true&theme=cobalt"/>
+			</td>
+		</tr>
+	</table>
+</center>
   
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/luisfelipe__sena/)
  ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg) 
