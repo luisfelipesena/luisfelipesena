@@ -23,12 +23,6 @@
 
 *** This Code is available in [Front end](https://github.com/luisfelipesena/Banking-API-Front) and [Back end](https://github.com/luisfelipesena/Banking-API-Back) ***
  
-### 👉🏾For more Codes and Projects: 
- #### Hackmd: [https://hackmd.io/@luisfelipesena](https://hackmd.io/@luisfelipesena) 
- #### Codepen: [https://codepen.io/luisfelipesena](https://codepen.io/luisfelipesena)
- #### The Huxley: [https://www.thehuxley.com/profile/29261?page=1](https://www.thehuxley.com/profile/29261?page=1)
- #### CodeSandbox: [https://codesandbox.io/u/luisfelipesena](https://codesandbox.io/u/luisfelipesena)
- #### HackerRank: https://www.hackerrank.com/luisfelipesena?hr_r=1
   
 <center>
 	<table>
