@@ -1,5 +1,5 @@
 #  Welcome, I'm [Luis](https://meu-portfolio-5bvmgn426-luisfelipesena.vercel.app/) 👋
-### I'm a Front-end developer at Gringo and also a student learning computer science with [UFBA](https://ufba.br/) and new technologies that the job market are using.I've studied at [Cubos Academy](https://cubos.academy/) all about the frameworks and logics to become a Full Stack developer. I love to learn and contribute in any and every possible way.
+### I'm a Software Engineer at Gringo and also a student learning computer science with [UFBA](https://ufba.br/) and new technologies that the job market are using.I've studied at [Cubos Academy](https://cubos.academy/) all about the frameworks and logics to become a Full Stack developer. I love to learn and contribute in any and every possible way.
 
 ### 📍 From Salvador-BA, Brazil
 
