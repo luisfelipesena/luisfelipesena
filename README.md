@@ -5,16 +5,7 @@
 
 ### Now i'm studying and working with :
 Node - TypeScript - React - Docker - Next.js - Redis
-
-### Last Open Project :
-
-![Homepage](https://cdn.discordapp.com/attachments/407006330843561985/784569766882705478/ezgif.com-gif-maker_1.gif)
-
-![Mainpage](https://cdn.discordapp.com/attachments/407006330843561985/784569766534578206/ezgif.com-gif-maker.gif)
-
-*** This Code is available in [Front end](https://github.com/luisfelipesena/Banking-API-Front) and [Back end](https://github.com/luisfelipesena/Banking-API-Back) ***
  
-  
 <center>
 	<table>
 		<tr>
