@@ -1,4 +1,4 @@
-#  Welcome, I'm [Luis](https://meu-portfolio-5bvmgn426-luisfelipesena.vercel.app/) 👋
+#  Hi, I'm [Luis](https://meu-portfolio-5bvmgn426-luisfelipesena.vercel.app/) 👋
 
 Currently, I am a Software Engineer at Gringo, where I apply my expertise in TypeScript, Node, Next, JavaScript, and Agile methodologies to develop innovative solutions in robust applications, both Backend and Frontend. Pursuing a degree in Computer Science at UFBA and having a solid foundation in web development provided by Cubos Academy, I am committed to continuous improvement and practical application of knowledge.
 
