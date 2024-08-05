@@ -1,9 +1,12 @@
 #  Welcome, I'm [Luis](https://meu-portfolio-5bvmgn426-luisfelipesena.vercel.app/) 👋
-### I'm a Software Engineer at Gringo and also a student learning computer science with [UFBA](https://ufba.br/) and new technologies that the job market are using.I've studied at [Cubos Academy](https://cubos.academy/) all about the frameworks and logics to become a Full Stack developer. I love to learn and contribute in any and every possible way.
+
+Currently, I am a Software Engineer at Gringo, where I apply my expertise in TypeScript, Node, Next, JavaScript, and Agile methodologies to develop innovative solutions in robust applications, both Backend and Frontend. Pursuing a degree in Computer Science at UFBA and having a solid foundation in web development provided by Cubos Academy, I am committed to continuous improvement and practical application of knowledge.
+
+My professional journey is marked by collaboration on significant projects and quick adaptation to dynamic technological needs. My proficiency with Firebase and my focus on delivering high-quality end-user experiences guide my daily work, with the aim of positively impacting people's lives through technology.
 
 ### 📍 From Salvador-BA, Brazil
 
-### Now i'm studying and working with :
+### I'm studying and working with :
 Node - TypeScript - React - Docker - Next.js - Redis
  
 <center>
@@ -19,9 +22,3 @@ Node - TypeScript - React - Docker - Next.js - Redis
 	</table>
 </center>
   
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/luisfelipe__sena/)
- ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg) 
- ![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=popout) 
- [![Linkedin Badge](https://img.shields.io/badge/-Luis%20Felipe-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/luisfelipesena/) 
- 
-
