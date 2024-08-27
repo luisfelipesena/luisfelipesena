@@ -28,7 +28,7 @@
 ## How to reach me... 🎯
 
 <a href="https://github.com/luisfelipesena/">
- <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/60659321?s=460&u=f7b85d61e01a491287fce14c7e9bc0ee74475cc8&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61807189?s=400&u=bffabf6a9c1e3892389c0ac97bb527942f5d8f68&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Luis Felipe</b></sub></a> <a href="https://github.com/luisfelipesena" title="Github">🚀</a>
 
