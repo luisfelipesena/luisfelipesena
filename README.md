@@ -1,24 +1,39 @@
-#  Hi, I'm [Luis](https://meu-portfolio-5bvmgn426-luisfelipesena.vercel.app/) 👋
+# Hi ! I'm, Luis!
+### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
+#### Feel free to look around, contribute with me or just talk 😅
 
-Currently, I am a Software Engineer at Gringo, where I apply my expertise in TypeScript, Node, Next, JavaScript, and Agile methodologies to develop innovative solutions in robust applications, both Backend and Frontend. Pursuing a degree in Computer Science at UFBA and having a solid foundation in web development provided by Cubos Academy, I am committed to continuous improvement and practical application of knowledge.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfelipesena&label=Profile%20views&color=DB7093&style=flat" alt="luisfelipesena" /> </p>
 
-My professional journey is marked by collaboration on significant projects and quick adaptation to dynamic technological needs. My proficiency with Firebase and my focus on delivering high-quality end-user experiences guide my daily work, with the aim of positively impacting people's lives through technology.
+[![trophy](https://github-profile-trophy.vercel.app/?username=luisfelipesena&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+## About me 🦅
+- 👨‍💻 FullStack Software Engineer @ <a href="https://gringo.com.vc/">Gringo</a>
+- 👨🏻‍🎓 BSc. in Computer Science from <a href="[https://www.cefetmg.br/](https://www.ufba.br/)">UFBA-BA</a>
+- 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
+- I'm always searching and learning about new technologies and improvind my productivity with AI
 
-### 📍 From Salvador-BA, Brazil
+## 🌱 I’m currently learning ... and working 🛠️ with
+ - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
+ - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+ - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
+ - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
+ - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
+ - ![React](https://img.shields.io/badge/-React-ff69b4)
+ - ![React Native](https://img.shields.io/badge/-React%20Native-9cf)
+ - ![Koa](https://img.shields.io/badge/-Koa-blueviolet)
+ - ![Express](https://img.shields.io/badge/-Express-yellow)
+ - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
+ - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
 
-### I'm studying and working with :
-Node - TypeScript - React - Docker - Next.js - Redis
- 
-<center>
-	<table>
-		<tr>
-			<td>
-				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesena&layout=compact&theme=cobalt"/>
-			</td>
-			<td>
-				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=luisfelipesena&show_icons=true&theme=cobalt"/>
-			</td>
-		</tr>
-	</table>
-</center>
-  
+
+## How to reach me... 🎯
+
+<a href="https://github.com/luisfelipesena/">
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/60659321?s=460&u=f7b85d61e01a491287fce14c7e9bc0ee74475cc8&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Luis Felipe</b></sub></a> <a href="https://github.com/luisfelipesena" title="Github">🚀</a>
+
+
+Made by Luis Felipe 👋🏽 Hit me up!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Luis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisfelipesena/)](https://www.linkedin.com/in/luisefelipesena/) 
+[![Gmail Badge](https://img.shields.io/badge/-luisfelipesena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfelipesena@gmail.com)](mailto:luisfelipesena@gmail.com)
