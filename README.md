@@ -21,15 +21,21 @@
  - ![Next](https://img.shields.io/badge/-Next-ff69b4)
  - ![React Native](https://img.shields.io/badge/-React%20Native-9cf)
  - ![Redis](https://img.shields.io/badge/-Redis-blueviolet)
- - ![Firebase](https://img.shields.io/badge/-Firebase)
- - ![MongoDB](https://img.shields.io/badge/-MongoDB)
+ - ![Firebase](https://img.shields.io/badge/-Firebase-yellow)
+ - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
  - ![Express](https://img.shields.io/badge/-Express-yellow)
  - ![Tailwind](https://img.shields.io/badge/-Tailwind-yellow)
  - ![Shadcn](https://img.shields.io/badge/-Shadcn-yellow)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
  - ![TypeORM](https://img.shields.io/badge/-TypeORM%20-red)
  - ![Docker](https://img.shields.io/badge/-Docker%20-blue)
-
+ - ![Node](https://img.shields.io/badge/-Node%20-green)
+ - ![PubSub](https://img.shields.io/badge/-PubSub%20-blue)
+ - ![BullMQ](https://img.shields.io/badge/-BullMQ%20-red)
+ - ![GraphQL](https://img.shields.io/badge/-GraphQL%20-blue)
+ - ![NewRelic](https://img.shields.io/badge/-NewRelic%20-green)
+ - ![BigQuery](https://img.shields.io/badge/-BigQuery%20-blue)
+   
 ## How to reach me... 🎯
 
 <a href="https://github.com/luisfelipesena/">
