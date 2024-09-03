@@ -11,7 +11,7 @@
 - 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
 - I'm always searching and learning about new technologies and improvind my productivity with AI
 
-## 🌱 I’m currently learning ... and working 🛠️ with
+## 🌱 I’m currently learning and working 🛠️ with
  - ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=orange)
  - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
