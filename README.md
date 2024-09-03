@@ -1,5 +1,5 @@
 # Hi ! I'm, Luis!
-### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
+### Welcome to my Github Profile. I am glad you had time to swing by!
 #### Feel free to look around, contribute with me or just talk 😅
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfelipesena&label=Profile%20views&color=DB7093&style=flat" alt="luisfelipesena" /> </p>
