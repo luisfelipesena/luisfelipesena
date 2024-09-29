@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luisfelipesena&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ## About me 🦅
-- 👨‍💻 FullStack Software Engineer @ <a href="https://gringo.com.vc/">Gringo</a>
+- 👨‍💻 FullStack Software Engineer
 - 👨🏻‍🎓 BSc. in Computer Science from <a href="[https://www.cefetmg.br/](https://www.ufba.br/)">UFBA-BA</a>
 - 📚 Former Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>
 - I'm always searching and learning about new technologies and improvind my productivity with AI
