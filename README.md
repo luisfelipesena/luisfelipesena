@@ -6,9 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luisfelipesena&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ## About me 🦅
-- 👨‍💻 FullStack Software Engineer (Typescript, Javacript, React, Next, Node.js, GCP, AWS, Python, React Native)
+- 👨‍💻 Full-stack Software Engineer (Typescript, Javacript, React, Next, Node.js, GCP, AWS, Python, React Native)
 - 👨🏻‍🎓 BSc. in Computer Science from <a href="[https://www.cefetmg.br/](https://www.ufba.br/)">UFBA-BA</a>
-- I'm always searching and learning about new technologies and improvind my productivity with AI
+- 📚 I'm always searching and learning about new technologies and improvind my productivity with AI
 
    
 ## How to reach me... 🎯
